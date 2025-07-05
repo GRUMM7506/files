@@ -1694,19 +1694,6 @@
         "stopName": "Пивзавод",
         "isTerminal": false,
         "basePoint": {
-          "latitude": 38.578533239254575,
-          "longitude": 68.80152166558052
-        },
-        "routeName": null,
-        "isTransfer": false,
-        "transferToRouteNumber": null,
-        "routeId": null,
-        "routeNumber": null
-      },
-      {
-        "stopName": "Пивзавод",
-        "isTerminal": false,
-        "basePoint": {
           "latitude": 38.579311642742766,
           "longitude": 68.80074026300915
         },
@@ -1982,19 +1969,6 @@
         "basePoint": {
           "latitude": 38.515159028955935,
           "longitude": 68.75367715315406
-        },
-        "routeName": null,
-        "isTransfer": false,
-        "transferToRouteNumber": null,
-        "routeId": null,
-        "routeNumber": null
-      },
-      {
-        "stopName": "Рынок \"Корвон\"",
-        "isTerminal": false,
-        "basePoint": {
-          "latitude": 38.50720954690755,
-          "longitude": 68.75611288703205
         },
         "routeName": null,
         "isTransfer": false,
@@ -3790,19 +3764,6 @@
         "stopName": "Рынок \"Корвон\"",
         "isTerminal": false,
         "basePoint": {
-          "latitude": 38.50455146230233,
-          "longitude": 68.75626040803218
-        },
-        "routeName": null,
-        "isTransfer": false,
-        "transferToRouteNumber": null,
-        "routeId": null,
-        "routeNumber": null
-      },
-      {
-        "stopName": "Рынок \"Корвон\"",
-        "isTerminal": false,
-        "basePoint": {
           "latitude": 38.51034899884864,
           "longitude": 68.75628069215784
         },
@@ -4314,19 +4275,6 @@
         "basePoint": {
           "latitude": 38.57611423306651,
           "longitude": 68.80412774417177
-        },
-        "routeName": null,
-        "isTransfer": false,
-        "transferToRouteNumber": null,
-        "routeId": null,
-        "routeNumber": null
-      },
-      {
-        "stopName": "Пивзавод",
-        "isTerminal": false,
-        "basePoint": {
-          "latitude": 38.57819230962804,
-          "longitude": 68.80195140263704
         },
         "routeName": null,
         "isTransfer": false,
