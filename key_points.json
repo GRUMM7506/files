@@ -695,34 +695,6 @@
         "routeNumber": null
       }
     ],
-    "46": [
-      {
-        "stopName": "Посёлок \"Чоряккорон\"",
-        "isTerminal": false,
-        "basePoint": {
-          "latitude": 38.57811808931138,
-          "longitude": 68.68643749754658
-        },
-        "routeName": null,
-        "isTransfer": false,
-        "transferToRouteNumber": null,
-        "routeId": null,
-        "routeNumber": null
-      },
-      {
-        "stopName": "Национальный парк",
-        "isTerminal": false,
-        "basePoint": {
-          "latitude": 38.58051437045996,
-          "longitude": 68.69305852569627
-        },
-        "routeName": null,
-        "isTransfer": false,
-        "transferToRouteNumber": null,
-        "routeId": null,
-        "routeNumber": null
-      }
-    ],
     "46 Посёлок \"Чоряккорон\"→Мост 46мкр": [
       {
         "stopName": "Посёлок \"Чоряккорон\"",
