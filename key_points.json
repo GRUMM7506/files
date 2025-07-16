@@ -9043,6 +9043,920 @@
         "routeId": null,
         "routeNumber": null
       }
+    ],
+    "15 Посёлок \"Ховарон\" (микрорайоны 192, 193)→Квартал \"Ободкорон\"": [
+      {
+        "stopName": "СП \"Шёлковый путь\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55453775679629,
+          "longitude": 68.81542926161532
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Ховарон",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56022717100204,
+          "longitude": 68.86261103853383
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Комбинат полиграфии г.Душанбе",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55272411458254,
+          "longitude": 68.85775904270076
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Автодром",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55323720664821,
+          "longitude": 68.85350917568033
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"7 км\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5533925750353,
+          "longitude": 68.85083812021345
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Школа № 29",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55358246927467,
+          "longitude": 68.84577194476222
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Рынок \"Ховарон\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.555063820420834,
+          "longitude": 68.84031249917881
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Кинотеатр \"Зебуниссо\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55817650699083,
+          "longitude": 68.83181526813422
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Магазин \"Волга\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55619639394958,
+          "longitude": 68.83222747986432
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Таджикбакалея",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.550128633686505,
+          "longitude": 68.83273557708327
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Грузовой терминал",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.54882725430462,
+          "longitude": 68.82189809329573
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"Ховарон\" (микрорайоны 192, 193)",
+        "isTerminal": true,
+        "basePoint": {
+          "latitude": 38.56374745083551,
+          "longitude": 68.86931375973673
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Автоколонна № 2972",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55791668907432,
+          "longitude": 68.81384475437487
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Больница ТЖД",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55860508370347,
+          "longitude": 68.80577507682749
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Железнодорожный вокзал",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55835147819636,
+          "longitude": 68.80065642400733
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Швейная фабрика \"Ёкут\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.557939189626765,
+          "longitude": 68.79574093042767
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Ресторан \"9 вал\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55737466759547,
+          "longitude": 68.79162035165103
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Назаршоева",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55753324164766,
+          "longitude": 68.78788911890042
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Площадь Победы",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.561827293975455,
+          "longitude": 68.78546381761284
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Ласточка",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56253185670027,
+          "longitude": 68.7859451768035
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Школа № 19",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.561531777859955,
+          "longitude": 68.77901404560404
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Квартал \"Ободкорон\"",
+        "isTerminal": true,
+        "basePoint": {
+          "latitude": 38.56763973220279,
+          "longitude": 68.72956029541689
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Торговый центр \"Ёвар\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56722865656554,
+          "longitude": 68.7666314984299
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 11",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56554163830526,
+          "longitude": 68.76337072546107
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Поликлиника № 2",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.564127303004064,
+          "longitude": 68.75863368214317
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Госфилармония",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.564571267755326,
+          "longitude": 68.75509712240589
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Автовокзал",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.57163405419272,
+          "longitude": 68.75481336054858
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Филиал МГТУ",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.57755486590992,
+          "longitude": 68.75415789543361
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Министерство энергетики и водных ресурсов",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5773520968394,
+          "longitude": 68.7462857091225
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Шамси",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.577238408491574,
+          "longitude": 68.74201772447891
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 103",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.572724264022625,
+          "longitude": 68.74069955216797
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 84",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56951533547736,
+          "longitude": 68.74065088391471
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Гуломова",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56794190841705,
+          "longitude": 68.73683784394393
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "СТО \"Москвич\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56226198498104,
+          "longitude": 68.76963550824856
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      }
+    ],
+    "15 Квартал \"Ободкорон\"→Посёлок \"Ховарон\" (микрорайоны 192, 193)": [
+      {
+        "stopName": "Квартал \"Ободкорон\"",
+        "isTerminal": true,
+        "basePoint": {
+          "latitude": 38.56763973220279,
+          "longitude": 68.72956029541689
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Гуломова",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56794190841705,
+          "longitude": 68.73683784394393
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 84",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56991,
+          "longitude": 68.741472
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 103",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.572818841355044,
+          "longitude": 68.74146784529908
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Шамси",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.577238408491574,
+          "longitude": 68.74201772447891
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Министерство энергетики и водных ресурсов",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5773520968394,
+          "longitude": 68.7462857091225
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Филиал ТГМУ",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.57755486590992,
+          "longitude": 68.75415789543361
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Автовокзал",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5720570549419,
+          "longitude": 68.75463875650836
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 13",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56651316362954,
+          "longitude": 68.75474976997361
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Поликлиника № 2",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.564043001471454,
+          "longitude": 68.75960548435516
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 12",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.564043001471454,
+          "longitude": 68.76151521717377
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 11",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56554163830526,
+          "longitude": 68.76337072546107
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Торговый центр \"Ёвар\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56712169999195,
+          "longitude": 68.76618226085967
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "СТО \"Москвич\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.561504002982865,
+          "longitude": 68.76972712548746
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Таджиктекстиль",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5614417643672,
+          "longitude": 68.78073969315616
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Площадь Победы",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.561827293975455,
+          "longitude": 68.78546381761284
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Назаршоева",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55753324164766,
+          "longitude": 68.78788911890042
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Ресторан \"9 вал\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55737466759547,
+          "longitude": 68.79162035165103
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Швейная фабрика \"Ёкут\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.557939189626765,
+          "longitude": 68.79574093042767
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Железнодорожный вокзал",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55835147819636,
+          "longitude": 68.80065642400733
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Больница ТЖД",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55860508370347,
+          "longitude": 68.80577507682749
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "СП \"Шёлковый путь\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.553502708052,
+          "longitude": 68.8153768947556
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Грузовой терминал",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.54882725430462,
+          "longitude": 68.82189809329573
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Таджикбакалея",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.550128633686505,
+          "longitude": 68.83273557708327
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Магазин \"Волга\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55619639394958,
+          "longitude": 68.83222747986432
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Кинотеатр \"Зебуниссо\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55758870936613,
+          "longitude": 68.83312651626726
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Рынок \"Ховарон\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55486872651124,
+          "longitude": 68.84065923870158
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Школа № 29",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.553426766148554,
+          "longitude": 68.84566708477033
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"7 км\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.553197360697155,
+          "longitude": 68.85208928067013
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Полиграфкомбинат",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55243583356957,
+          "longitude": 68.8590260963062
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 191",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.551730554546566,
+          "longitude": 68.8648128017983
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Рынок \" 9 км\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55131398131447,
+          "longitude": 68.87112412960415
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Аманар",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.551469,
+          "longitude": 68.872216
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"Обшорон\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55144659576846,
+          "longitude": 68.87362412189974
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Магазин \"Ходжиён\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55820938394996,
+          "longitude": 68.86933753504599
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"Ховарон\" (микрорайоны 192, 193)",
+        "isTerminal": true,
+        "basePoint": {
+          "latitude": 38.56374745083551,
+          "longitude": 68.86931375973673
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      }
     ]
   }
 }
