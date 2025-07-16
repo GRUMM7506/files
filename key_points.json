@@ -10702,6 +10702,595 @@
         "routeId": null,
         "routeNumber": null
       }
+    ],
+    "17 Квартал \"Ободкорон\"→Улица Гагарина": [
+      {
+        "stopName": "Квартал \"Ободкорон\"",
+        "isTerminal": true,
+        "basePoint": {
+          "latitude": 38.56763973220279,
+          "longitude": 68.72956029541689
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Гуломова",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56794190841705,
+          "longitude": 68.73683784394393
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Платформа Масложиркомбинат",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.567885070475114,
+          "longitude": 68.74322548623512
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Шерализаде",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.568800409775726,
+          "longitude": 68.75272237676751
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Автовокзал",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.57182769397921,
+          "longitude": 68.7548187224511
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Филиал ТГМУ",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.577547686449535,
+          "longitude": 68.75411355814731
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Министерство энергетики и водных ресурсов",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5773520968394,
+          "longitude": 68.7462857091225
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Шамси",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.577238408491574,
+          "longitude": 68.74201772447891
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 101",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.57854167374825,
+          "longitude": 68.74141175838484
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"Казакон\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.58665645516119,
+          "longitude": 68.74145958422811
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Кафе \"Райхон\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5932630159807,
+          "longitude": 68.7452451653916
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"Мехрабад\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.594754237317225,
+          "longitude": 68.7543789270672
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"Новобад\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.597452404190584,
+          "longitude": 68.75867172202214
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Центральная Соборная мечеть",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.597444449315574,
+          "longitude": 68.76347437185404
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Парк \"Хайям\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.59938834821966,
+          "longitude": 68.77026411242637
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Товус",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.60269917750999,
+          "longitude": 68.7763811158836
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Школа № 34",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.60840296417546,
+          "longitude": 68.7854681589821
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Душанбе-Арена",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.61283080540925,
+          "longitude": 68.78785540588842
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Рынок \"Варзоб\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.616542784211305,
+          "longitude": 68.78170192317943
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Гагарина",
+        "isTerminal": true,
+        "basePoint": {
+          "latitude": 38.61946,
+          "longitude": 68.778345
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      }
+    ],
+    "17 Улица Гагарина→Квартал \"Ободкорон\"": [
+      {
+        "stopName": "Улица Гагарина",
+        "isTerminal": true,
+        "basePoint": {
+          "latitude": 38.61946,
+          "longitude": 68.778345
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Рынок \"Варзоб\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.616542784211305,
+          "longitude": 68.78170192317943
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Площадь Пограничников",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.61460120265771,
+          "longitude": 68.7852750443726
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Душанбе-Арена",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.61283080540925,
+          "longitude": 68.78785540588842
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Школа № 34",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.60840296417546,
+          "longitude": 68.7854681589821
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Ботанический сад",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.60838932035474,
+          "longitude": 68.7810769322722
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Товус",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.60274771595788,
+          "longitude": 68.77631316684776
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Парк \"Хайям\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.59960969784929,
+          "longitude": 68.77032258834062
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Центральная Соборная мечеть",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.59761766080859,
+          "longitude": 68.76300842319714
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"Новобад\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.59689440668651,
+          "longitude": 68.75729490819671
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"Мехрабад\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.59405597549472,
+          "longitude": 68.75303362592759
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Международная школа",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.59368490213806,
+          "longitude": 68.74807178307351
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Кафе \"Райхон\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.59171171347858,
+          "longitude": 68.74242191668343
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Сапеда 112",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.588107720476536,
+          "longitude": 68.74073453672898
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"Казакон\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.58675333734938,
+          "longitude": 68.74069430359376
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Торговый центр \"Саодат\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.58016963789065,
+          "longitude": 68.74070922534096
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 101",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.57841216958811,
+          "longitude": 68.74069766642145
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Шамси",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.577238408491574,
+          "longitude": 68.74201772447891
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Министерство энергетики и водных ресурсов",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5773520968394,
+          "longitude": 68.7462857091225
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Филиал ТГМУ",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.57755486590992,
+          "longitude": 68.75415789543361
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Автовокзал",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5720570549419,
+          "longitude": 68.75463875650836
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 88",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56915370739106,
+          "longitude": 68.75014562944163
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 84",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56867957601925,
+          "longitude": 68.74485811108792
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Гуломова",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56794190841705,
+          "longitude": 68.73683784394393
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Квартал \"Ободкорон\"",
+        "isTerminal": true,
+        "basePoint": {
+          "latitude": 38.56763973220279,
+          "longitude": 68.72956029541689
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      }
     ]
   }
 }
