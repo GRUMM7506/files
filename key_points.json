@@ -12972,6 +12972,842 @@
         "routeId": null,
         "routeNumber": null
       }
+    ],
+    "54 Институт физкультуры→Посёлок Дарьяабад": [
+      {
+        "stopName": "Институт физкультуры",
+        "isTerminal": true,
+        "basePoint": {
+          "latitude": 38.606622510200225,
+          "longitude": 68.76837926831716
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Лучоб",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.598559663453216,
+          "longitude": 68.76851989483394
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Таджикский национальный университет",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5863998193332,
+          "longitude": 68.77090442528528
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Автобаза № 2",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.57373345163759,
+          "longitude": 68.76872574163575
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Хаёти нав",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.57115522904029,
+          "longitude": 68.76700679395752
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Химчистка",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56910434279661,
+          "longitude": 68.7633659248153
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Автовокзал",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56910304848711,
+          "longitude": 68.75810208434791
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 13",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56651316362954,
+          "longitude": 68.75474976997361
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Поликлиника № 2",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.564043001471454,
+          "longitude": 68.75960548435516
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 12",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.564043001471454,
+          "longitude": 68.76151521717377
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 11",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56554163830526,
+          "longitude": 68.76337072546107
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Торговый центр \"Ёвар\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56712169999195,
+          "longitude": 68.76618226085967
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "СТО \"Москвич\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.561504002982865,
+          "longitude": 68.76972712548746
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Газетно-журнальный комплекс \"Шарки Озод\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55764984288781,
+          "longitude": 68.77059855489938
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Школа № 72",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55261092335231,
+          "longitude": 68.76805615671971
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Высшая школа",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.543597647391394,
+          "longitude": 68.76637845878717
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Наркологическая больница",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.53809856558357,
+          "longitude": 68.76780879906583
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Медицинский центр \"Истиклол\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.536684721005756,
+          "longitude": 68.76816408472757
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Истиклол",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.53621886851209,
+          "longitude": 68.7683126929644
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Диагностика (46мкр)",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.532997,
+          "longitude": 68.769204
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 46",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.526052000367855,
+          "longitude": 68.77051637385621
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Мост 46мкр",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5262328573218,
+          "longitude": 68.77049497769715
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 61",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.51968825397173,
+          "longitude": 68.77048532532346
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Фирдоуси",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5179073529092,
+          "longitude": 68.7689083381609
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Аптека \"Гарант\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.517946493983914,
+          "longitude": 68.76250642191152
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Саховат",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.517964926461445,
+          "longitude": 68.76148680737717
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "ТЦ \"Сиёма\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.51801635177145,
+          "longitude": 68.75296390474408
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Общежитие института искусств",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5191195433428,
+          "longitude": 68.74876039332369
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Кафе \"Марди худо\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.518598710750084,
+          "longitude": 68.74509597101634
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Финансово-экономический университет",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.51496807095097,
+          "longitude": 68.74354671398793
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Гипроземгородок",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.51268928178322,
+          "longitude": 68.74251543720578
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Школа № 58",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.50564271737161,
+          "longitude": 68.74099815065962
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Гульпарвар",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.49417254302333,
+          "longitude": 68.73799997057391
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Чимтеппа",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.47247016260054,
+          "longitude": 68.7310045271624
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Хосилот",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.47128225828959,
+          "longitude": 68.72317532858284
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок Дарьяабад",
+        "isTerminal": true,
+        "basePoint": {
+          "latitude": 38.46500205552506,
+          "longitude": 68.71785951079133
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      }
+    ],
+    "54 Посёлок Дарьяабад→Институт физкультуры": [
+      {
+        "stopName": "Микрорайон 46",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.526053,
+          "longitude": 68.770709
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок Дарьяабад",
+        "isTerminal": true,
+        "basePoint": {
+          "latitude": 38.46500205552506,
+          "longitude": 68.71785951079133
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Хосилот",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.47128225828959,
+          "longitude": 68.72317532858284
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Чимтеппа",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.47247016260054,
+          "longitude": 68.7310045271624
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Гульпарвар",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.49417254302333,
+          "longitude": 68.73799997057391
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Школа № 58",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.50564271737161,
+          "longitude": 68.74099815065962
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Гипроземгородок",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.512641348489716,
+          "longitude": 68.7426590360606
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Финансово-экономический университет",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.51546603972669,
+          "longitude": 68.74385239451905
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Кафе \"Марди Худо\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.51848655951126,
+          "longitude": 68.74523076284228
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Общежитие института искусств",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.51882233149753,
+          "longitude": 68.74942573774157
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Аптека \"Гарант\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.517946493983914,
+          "longitude": 68.76250642191152
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 61",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.51944313252207,
+          "longitude": 68.77062856379624
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Медицинский центр \"Истиклол\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.53703730626913,
+          "longitude": 68.76821503205845
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Высшая школа",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.543618174740615,
+          "longitude": 68.76655014260994
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Школа № 72",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55353428283548,
+          "longitude": 68.76904214283027
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Газетно-журнальный комплекс \"Шарки Озод\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55772748077101,
+          "longitude": 68.77076674638744
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "СТО \"Москвич\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56185041032232,
+          "longitude": 68.76975775083409
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Торговый центр \"Ёвар\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56718933563579,
+          "longitude": 68.76659304974758
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 11",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56554163830526,
+          "longitude": 68.76337072546107
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Поликлиника № 2",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.564043001471454,
+          "longitude": 68.75960548435516
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Госфилармония",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56456967169271,
+          "longitude": 68.75510590507787
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Автовокзал",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.569103409095696,
+          "longitude": 68.75822092996447
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Химчистка",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56910434279661,
+          "longitude": 68.7633659248153
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Хаёти нав",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.57067804910092,
+          "longitude": 68.76659186454181
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Автобаза № 2",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.57373345163759,
+          "longitude": 68.76872574163575
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Таджикский национальный университет",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5863998193332,
+          "longitude": 68.77090442528528
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Лучоб",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.598559663453216,
+          "longitude": 68.76851989483394
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Институт физкультуры",
+        "isTerminal": true,
+        "basePoint": {
+          "latitude": 38.606622510200225,
+          "longitude": 68.76837926831716
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      }
     ]
   }
 }
