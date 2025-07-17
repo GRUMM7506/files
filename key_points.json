@@ -7842,6 +7842,162 @@
         "routeNumber": null
       },
       {
+        "stopName": "Сельсовет \"Чорбог\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.656036926628566,
+          "longitude": 68.76470564066364
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Озеро \"Чорбог\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.65203555973342,
+          "longitude": 68.76383185182739
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок Мухтороева",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.64681979288577,
+          "longitude": 68.76271275639186
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"Чагатай\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.6426612913353,
+          "longitude": 68.76422239307453
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Рынок \"Кушониён\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.63880737616629,
+          "longitude": 68.76472054798097
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Худжамбиёи Боло",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.62637208337045,
+          "longitude": 68.76672306516014
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Худжамбиёи Поён",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.619019164244506,
+          "longitude": 68.76803402793915
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"Шафак\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.61420734899533,
+          "longitude": 68.76914682913602
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "ТЭЦ № 2",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.60987459312276,
+          "longitude": 68.7707444734465
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "АЗС (Север)",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.6067556159188,
+          "longitude": 68.77186132322129
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Парк \"Хайям\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.599852,
+          "longitude": 68.770624
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Центральная Соборная мечеть",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.59771885597594,
+          "longitude": 68.76204144601226
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
         "stopName": "Посёлок \"Новобад\"",
         "isTerminal": false,
         "basePoint": {
@@ -7873,6 +8029,19 @@
         "basePoint": {
           "latitude": 38.58719395523503,
           "longitude": 68.75525218874573
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Медицинский университет",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.581166,
+          "longitude": 68.755029
         },
         "routeName": null,
         "isTransfer": false,
@@ -7933,6 +8102,19 @@
         "routeNumber": null
       },
       {
+        "stopName": "Микрорайон 11",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56554163830526,
+          "longitude": 68.76337072546107
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
         "stopName": "Торговый центр \"Ёвар\"",
         "isTerminal": false,
         "basePoint": {
@@ -7972,6 +8154,19 @@
         "routeNumber": null
       },
       {
+        "stopName": "Школа № 72",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.552684,
+          "longitude": 68.768138
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
         "stopName": "Высшая школа",
         "isTerminal": false,
         "basePoint": {
@@ -7998,6 +8193,19 @@
         "routeNumber": null
       },
       {
+        "stopName": "Медицинский центр \"Истиклол\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.536783576605934,
+          "longitude": 68.76816381273042
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
         "stopName": "Истиклол",
         "isTerminal": false,
         "basePoint": {
@@ -8011,11 +8219,37 @@
         "routeNumber": null
       },
       {
+        "stopName": "Диагностика (46мкр)",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.532997,
+          "longitude": 68.769204
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
         "stopName": "Микрорайон 46",
         "isTerminal": false,
         "basePoint": {
           "latitude": 38.526052000367855,
           "longitude": 68.77051637385621
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Мост 46мкр",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.52605,
+          "longitude": 68.770502
         },
         "routeName": null,
         "isTransfer": false,
@@ -8066,8 +8300,8 @@
         "stopName": "Автоцентр",
         "isTerminal": false,
         "basePoint": {
-          "latitude": 38.5118589010822,
-          "longitude": 68.76061814763584
+          "latitude": 38.510928719183944,
+          "longitude": 68.76154984322459
         },
         "routeName": null,
         "isTransfer": false,
@@ -8076,11 +8310,11 @@
         "routeNumber": null
       },
       {
-        "stopName": "Улица Касымова",
+        "stopName": "Посёлок \"Гульбута\"",
         "isTerminal": false,
         "basePoint": {
-          "latitude": 38.51187077353432,
-          "longitude": 68.75734080869563
+          "latitude": 38.505254324380886,
+          "longitude": 68.76169254383991
         },
         "routeName": null,
         "isTransfer": false,
@@ -8089,33 +8323,7 @@
         "routeNumber": null
       },
       {
-        "stopName": "Рынок \"Корвон\"",
-        "isTerminal": false,
-        "basePoint": {
-          "latitude": 38.507891390590665,
-          "longitude": 68.75609105720851
-        },
-        "routeName": null,
-        "isTransfer": false,
-        "transferToRouteNumber": null,
-        "routeId": null,
-        "routeNumber": null
-      },
-      {
-        "stopName": "Оптовый",
-        "isTerminal": false,
-        "basePoint": {
-          "latitude": 38.50116582109708,
-          "longitude": 68.75593410006397
-        },
-        "routeName": null,
-        "isTransfer": false,
-        "transferToRouteNumber": null,
-        "routeId": null,
-        "routeNumber": null
-      },
-      {
-        "stopName": "АЗС",
+        "stopName": "АЗС (Юг)",
         "isTerminal": false,
         "basePoint": {
           "latitude": 38.49847935882976,
@@ -12235,6 +12443,528 @@
         "basePoint": {
           "latitude": 38.655310752550854,
           "longitude": 68.7648172454349
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      }
+    ],
+    "52 Терминал \"Южный\"→Терминал \"Чорбог\"": [
+      {
+        "stopName": "Школа № 72",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.553056581591385,
+          "longitude": 68.76865462889798
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Поворот на посёлок \"Кахрамон\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.48104160061813,
+          "longitude": 68.74691647329854
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Поворот на просёлок \"Гулпарвар\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.48553201752818,
+          "longitude": 68.74914911296925
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "АЗС (Юг)",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.49864150918312,
+          "longitude": 68.7554096312421
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"Гульбута\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.505254324380886,
+          "longitude": 68.76169254383991
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Сомон Сервис",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.50980257164713,
+          "longitude": 68.76205213132162
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 63",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.51166631119165,
+          "longitude": 68.76468606057425
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 61",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.51944313252207,
+          "longitude": 68.77062856379624
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 46",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.52604626240577,
+          "longitude": 68.77072992126482
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Мост 46мкр",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.526159573723945,
+          "longitude": 68.77071382801073
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Диагностика (46мкр)",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.53306062629285,
+          "longitude": 68.76933540724491
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Медицинский центр \"Истиклол\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.53703730626913,
+          "longitude": 68.76821503205845
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Высшая школа",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.54372204362434,
+          "longitude": 68.76653654859955
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Терминал \"Южный\"",
+        "isTerminal": true,
+        "basePoint": {
+          "latitude": 38.4677909949211,
+          "longitude": 68.74041490044739
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Газетно-журнальный комплекс \"Шарки Озод\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.55778669366597,
+          "longitude": 68.77078815939888
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "СТО \"Москвич\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56170076567195,
+          "longitude": 68.76979715965341
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Торговый центр \"Ёвар\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.567187395238,
+          "longitude": 68.76663196903797
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 11",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56554163830526,
+          "longitude": 68.76337072546107
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Микрорайон 12",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.564043001471454,
+          "longitude": 68.76151521717377
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Поликлиника № 2",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.564043001471454,
+          "longitude": 68.75960548435516
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Госфилармония",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.56452689329344,
+          "longitude": 68.75512364729025
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Автовокзал",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.57166705490158,
+          "longitude": 68.75480384421797
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Национальный медицинский центр \"Шифобахш\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.58140121174323,
+          "longitude": 68.75515186893534
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Поликлиника № 10",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.58739152257089,
+          "longitude": 68.7554354364887
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Фармацевтический госконтроль",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.58905198637459,
+          "longitude": 68.75550517392308
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Терминал \"Чорбог\"",
+        "isTerminal": true,
+        "basePoint": {
+          "latitude": 38.657123068898024,
+          "longitude": 68.76425672667078
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"Новобад\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.597452404190584,
+          "longitude": 68.75867172202214
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Центральная Соборная мечеть",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.597444449315574,
+          "longitude": 68.76347437185404
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Парк \"Хайям\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.59950718721679,
+          "longitude": 68.77033945584833
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "АЗС (Север)",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.607317825166405,
+          "longitude": 68.77192518980422
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "ТЭЦ № 2",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.61062259131861,
+          "longitude": 68.77072371597808
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Псёлок \"Шафак\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.61464531238134,
+          "longitude": 68.76926304073072
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Худжамбиёи Поён",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.6195774637923,
+          "longitude": 68.76811300767578
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Худжамбиёи Боло",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.62393031427886,
+          "longitude": 68.76743057070269
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Рынок \"Кушониён\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.630566099166984,
+          "longitude": 68.76571744965631
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок \"Чагатай\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.64342131199532,
+          "longitude": 68.76416154896573
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Посёлок Мухтороева",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.64878259001163,
+          "longitude": 68.76317765825723
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Озеро \"Чорбог\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.652573928758436,
+          "longitude": 68.76410033815836
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Сельсовет \"Чорбог\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.656184712467514,
+          "longitude": 68.76493264334253
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Улица Карамова",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.59402369224686,
+          "longitude": 68.75618000634053
         },
         "routeName": null,
         "isTransfer": false,
