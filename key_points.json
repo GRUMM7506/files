@@ -1154,11 +1154,11 @@
         "routeNumber": null
       },
       {
-        "stopName": "Улица Касымова",
+        "stopName": "Корвон",
         "isTerminal": false,
         "basePoint": {
-          "latitude": 38.511730168606206,
-          "longitude": 68.75663106736381
+          "latitude": 38.51172339931756,
+          "longitude": 68.7567510702191
         },
         "routeName": null,
         "isTransfer": false,
@@ -1167,11 +1167,11 @@
         "routeNumber": null
       },
       {
-        "stopName": "Корвон",
+        "stopName": "Улица Касымова",
         "isTerminal": false,
         "basePoint": {
-          "latitude": 38.51172339931756,
-          "longitude": 68.7567510702191
+          "latitude": 38.511730168606206,
+          "longitude": 68.75663106736381
         },
         "routeName": null,
         "isTransfer": false,
@@ -1237,6 +1237,19 @@
         "basePoint": {
           "latitude": 38.52533849097284,
           "longitude": 68.77064460777534
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Мост 46мкр",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.526053,
+          "longitude": 68.770709
         },
         "routeName": null,
         "isTransfer": false,
@@ -2001,11 +2014,11 @@
         "routeNumber": null
       },
       {
-        "stopName": "Телефонная горсеть",
+        "stopName": "Школа № 1",
         "isTerminal": false,
         "basePoint": {
-          "latitude": 38.57243593604803,
-          "longitude": 68.79101234643659
+          "latitude": 38.57286393309166,
+          "longitude": 68.79159592485529
         },
         "routeName": null,
         "isTransfer": false,
@@ -2014,11 +2027,11 @@
         "routeNumber": null
       },
       {
-        "stopName": "Школа № 1",
+        "stopName": "Телефонная горсеть",
         "isTerminal": false,
         "basePoint": {
-          "latitude": 38.57286393309166,
-          "longitude": 68.79159592485529
+          "latitude": 38.57243593604803,
+          "longitude": 68.79101234643659
         },
         "routeName": null,
         "isTransfer": false,
@@ -2170,19 +2183,6 @@
         "routeNumber": null
       },
       {
-        "stopName": "Медицинский центр \"Истиклол\"",
-        "isTerminal": false,
-        "basePoint": {
-          "latitude": 38.53592409789285,
-          "longitude": 68.76839789232294
-        },
-        "routeName": null,
-        "isTransfer": false,
-        "transferToRouteNumber": null,
-        "routeId": null,
-        "routeNumber": null
-      },
-      {
         "stopName": "Истиклол",
         "isTerminal": false,
         "basePoint": {
@@ -2196,11 +2196,37 @@
         "routeNumber": null
       },
       {
+        "stopName": "Медицинский центр \"Истиклол\"",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.53592409789285,
+          "longitude": 68.76839789232294
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
         "stopName": "Микрорайон 46",
         "isTerminal": false,
         "basePoint": {
           "latitude": 38.526052000367855,
           "longitude": 68.77051637385621
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Мост 46мкр",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5261022781506,
+          "longitude": 68.77051084258329
         },
         "routeName": null,
         "isTransfer": false,
