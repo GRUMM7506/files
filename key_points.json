@@ -67,6 +67,32 @@
         "routeNumber": null
       },
       {
+        "stopName": "Панчруд",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.5292243615021,
+          "longitude": 68.78999752997348
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
+        "stopName": "Больница",
+        "isTerminal": false,
+        "basePoint": {
+          "latitude": 38.529219115835026,
+          "longitude": 68.79015980361889
+        },
+        "routeName": null,
+        "isTransfer": false,
+        "transferToRouteNumber": null,
+        "routeId": null,
+        "routeNumber": null
+      },
+      {
         "stopName": "Школа \"119\"",
         "isTerminal": false,
         "basePoint": {
@@ -111,32 +137,6 @@
         "basePoint": {
           "latitude": 38.530468253017105,
           "longitude": 68.81218519156218
-        },
-        "routeName": null,
-        "isTransfer": false,
-        "transferToRouteNumber": null,
-        "routeId": null,
-        "routeNumber": null
-      },
-      {
-        "stopName": "Панчруд",
-        "isTerminal": false,
-        "basePoint": {
-          "latitude": 38.5292243615021,
-          "longitude": 68.78999752997348
-        },
-        "routeName": null,
-        "isTransfer": false,
-        "transferToRouteNumber": null,
-        "routeId": null,
-        "routeNumber": null
-      },
-      {
-        "stopName": "Больница",
-        "isTerminal": false,
-        "basePoint": {
-          "latitude": 38.529219115835026,
-          "longitude": 68.79015980361889
         },
         "routeName": null,
         "isTransfer": false,
